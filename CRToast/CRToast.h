@@ -13,5 +13,5 @@ FOUNDATION_EXPORT const unsigned char CRToastVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <CRToast/PublicHeader.h>
 
-#import <CRToast/CRToastConfig.h>
-#import <CRToast/CRToastManager.h>
+#import "CRToast/CRToastConfig.h"
+#import "CRToast/CRToastManager.h"
